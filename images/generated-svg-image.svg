@@ -1,0 +1,24 @@
+<svg
+  width="420"
+  height="420"
+  viewBox="0 0 400 400"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+>
+  <g
+    stroke="#1595b6"
+    stroke-width="14"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  >
+    <!-- Left vertical -->
+    <path d="M80 320 L80 80" />
+
+    <!-- Diagonal middle -->
+    <path d="M80 80 L320 320" />
+
+    <!-- Right vertical -->
+    <path d="M320 320 L320 80" />
+  </g>
+</svg>
+``
